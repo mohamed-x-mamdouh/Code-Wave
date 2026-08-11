@@ -1,5 +1,5 @@
 Live demo via GitHub Pages
-https://mohamed12-max.github.io/Code-Wave/
+[https://mohamed12-max.github.io/Code-Wave/](https://mohamed-x-mamdouh.github.io/Code-Wave/)
 
 # CodeWave Company Website
 
